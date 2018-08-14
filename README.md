@@ -1,1 +1,1 @@
-#LightTextEditor
+#LightTextEditor: my first qt project
